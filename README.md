@@ -11,7 +11,7 @@
 ## 🧠 Sobre mí
 
 🎓 Estudiante de Ingeniería en Informática en **Duoc UC** (último año).  
-🌱 Actualmente profundizando en **HTML, CSS y JavaScript**.  
+🌱 Actualmente profundizando en **JavaScript**.  
 🎯 Enfocado en convertirme en desarrollador **Fullstack**, comenzando con una base sólida en **Frontend**.  
 🤖 Interesado en complementar el desarrollo web con **Inteligencia Artificial**.  
 📚 Siempre buscando mejorar mis buenas prácticas y escribir código más limpio y mantenible.
