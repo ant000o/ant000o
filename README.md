@@ -1,52 +1,52 @@
-<h1 align="center"> 👋 Hola, soy Antonio!</h1>
+<h1 align="center"> 👋 Hi, I'm Antonio!</h1>
 
 <p align="center">
-  💻 Frontend Developer en formación <br>
-  🚀 Futuro Fullstack Developer <br>
-  🤖 Interesado en Inteligencia Artificial aplicada a la Web
+  💻 Frontend Developer in training <br>
+  🚀 Future Fullstack Developer <br>
+  🤖 Interested in AI applied to the Web
 </p>
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 About Me
 
-🎓 Estudiante de Ingeniería en Informática en **Duoc UC** (último año).  
-🌱 Actualmente profundizando en **JavaScript**.  
-🎯 Enfocado en convertirme en desarrollador **Fullstack**, comenzando con una base sólida en **Frontend**.  
-🤖 Interesado en complementar el desarrollo web con **Inteligencia Artificial**.  
-📚 Siempre buscando mejorar mis buenas prácticas y escribir código más limpio y mantenible.
+🎓 Computer Engineering student at **Duoc UC** (final year).  
+🌱 Currently deepening my knowledge in **JavaScript**.  
+🎯 Focused on becoming a **Fullstack** developer, starting with a strong **Frontend** foundation.  
+🤖 Interested in combining web development with **Artificial Intelligence**.  
+📚 Always looking to improve best practices and write cleaner, more maintainable code.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies & Tools
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 </p>
 
-### 🔧 En aprendizaje / Próximamente
+### 🔧 Learning / Coming Soon
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,fastapi" />
 </p>
 
-### 🧠 Futuro enfoque
-- Desarrollo Fullstack
-- Arquitectura web
+### 🧠 Future Focus
+- Fullstack development
+- Web architecture
 - APIs
-- Inteligencia Artificial aplicada a productos web
+- AI applied to web products
 
 ---
 
-## 📈 Actualmente trabajando en
+## 📈 Currently Working On
 
-- 🧱 Construcción de un **Portfolio profesional**
-- 🛒 Desarrollo de proyectos pequeños-medianos (para reforzar JavaScript y lógica)
-- 🧠 Mejorar mi comprensión profunda de JavaScript (no solo usarlo, entenderlo)
+- 🧱 Building a **professional portfolio**
+- 🛒 Developing small to medium-sized projects (to strengthen JavaScript and logic)
+- 🧠 Improving my deep understanding of JavaScript
 
 ---
 
-## 📫 Conecta conmigo
+## 📫 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/ancamposa/">
